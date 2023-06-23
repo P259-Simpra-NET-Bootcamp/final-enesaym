@@ -2,7 +2,8 @@ SimShop Api
 
 Postman documantation link : https://documenter.getpostman.com/view/27227009/2s93z6cP6Q
 
-Code first veritabanlarının olusturulması için powershell arayüzüne asagıdaki kod girilmelidir.
+Code first veritabanlarının olusturulması için powershell arayüzüne asagıdaki kod girilmelidir :
+
 dotnet ef database update --project "./SimShop” --startup-project "./SimShop"
 
 Adım 1:
